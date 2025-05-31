@@ -1,1 +1,2 @@
-# gerenciador_tarefas
+Esse projeto foi desenvolvido ao final do curso DiversificaDev e trata-se de um gerenciador de tarefas funcional, feito em Python e que pode ser executado via console. É possível adicionar tarefas, eliminar tarefas e lista-las, podendo ser usado no cotidiano.
+Foi realizado também com os conhecimentos adiquiridos no curso, um pequeno roteiro de testes automatizados, para validar as funções do programa.
